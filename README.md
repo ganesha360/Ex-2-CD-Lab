@@ -32,10 +32,10 @@
 7.	Compile that file with C compiler and verify the output.
 # PROGRAM
 ```
-Developed by: Abishek Xavier
-Register no: 212223230218
+Developed by: GANESH R 
+Register no: 212222240029
 ```
-```
+```PY
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
